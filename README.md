@@ -46,3 +46,4 @@ B. Полученные кластеризации для каждого тип�
 - https://www.kaggle.com/sohamtiwari/car-classfication
 - https://www.kaggle.com/alexeybelomoykin/belomoykin-dst-18-keras-car-class
 - https://www.kaggle.com/dmitry89/ford-vs-ferrari-dst-9-19-fullsuccess
+- https://www.kaggle.com/sokolovaleks/sf-dst-10-car-classification-sokolov
