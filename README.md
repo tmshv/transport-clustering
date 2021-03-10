@@ -41,5 +41,5 @@ B. Полученные кластеризации для каждого тип�
 
 ## link to Notebooks
 
-https://www.kaggle.com/itslek/easy-start-with-fastai-sf-car-classification-v26
->>>>>>> 0ce2ff2b3e53a398e9dd5a5c314879213bc86a80
+- https://www.kaggle.com/itslek/easy-start-with-fastai-sf-car-classification-v26
+- https://www.kaggle.com/brunorazeramoretti1/eda-atividade-pr-tica
