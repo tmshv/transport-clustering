@@ -48,3 +48,7 @@ B. Полученные кластеризации для каждого тип�
 - https://www.kaggle.com/dmitry89/ford-vs-ferrari-dst-9-19-fullsuccess
 - https://www.kaggle.com/sokolovaleks/sf-dst-10-car-classification-sokolov
 - https://www.kaggle.com/romanianvarev/sf-dl-car-classificator-efficientnetb4
+
+Цветовая классификация
+
+https://www.kaggle.com/ashutoshvarma/image-classification-using-svm-92-accuracy
