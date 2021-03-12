@@ -66,4 +66,6 @@ pip install image-quality
 
 на выходе должен получиться `transport_dataset.csv`
 
+Это занимает 327 часов )))
+
 Далее работаем с файлом transport_clustering.ipynb
