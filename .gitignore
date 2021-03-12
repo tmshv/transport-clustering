@@ -1,0 +1,6 @@
+raw_data
+.DS_Store
+.vscode
+__pycache__
+.idea
+descriptors
